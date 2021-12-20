@@ -10,7 +10,7 @@ Pagina web en WordPress que ofrece opciones para vacacionar (bot) y brinda prote
 
  Diagrama
 
-
+[![Diagrama.jpg](https://i.postimg.cc/PqnGh2gC/Diagrama.jpg)](https://postimg.cc/LJDQ3B6S)
 
  SLA Compuesto
 
@@ -21,7 +21,7 @@ Bot Service: 99.9% Cognitive Service: 99.9% App Service: 99.95% Key Vault: 99.99
 
  TCO
 
-
+[![Costos.png](https://i.postimg.cc/QxnhLgN7/Costos.png)](https://postimg.cc/fJX6m99W)
 
  Tiempo sin disponibilidad en 3 años
 
