@@ -1,15 +1,15 @@
 # Winter-Hack-2021
 
-#Proyecto
+# Proyecto
 
-#Tik tok
+# Tik tok
 
-#Diagrama
+# Diagrama
 
-#SLA Compuesto
+# SLA Compuesto
 
-#TCO
+# TCO
 
-#Tiempo sin disponibilidad
+# Tiempo sin disponibilidad
 
-#Evento
+# Evento
